@@ -655,9 +655,163 @@
 
 # PART 3. 自由な要素
 ## CHAPTER 10. 動詞-ING形
+
+### SECTION 1. 名詞位置での動詞-ing形
+- Making new friends is not so easy.
+- Talking in the library is prohibited.
+- I like playing video games with my buddies.
+- Stop picking your nose!
+- My kid sister is great at dancing hip-hop.
+- I'm proud of being bicultural.
+- I got the booby prize for coming last in my club's golf tournament.
+
+### SECTION 2. 修飾位置での動詞-ing形
+- My brother is acting like an idiot - as usual!
+- Lucy is putting on her make-up.
+- The man scolding those 2 boys is the headmaster.
+- The woman driving the bus is my sister-in-law.
+- Sorry to keep you waiting.
+- His joke had the entire audience rolling in the aisles.
+- I saw your girlfriend getting into a taxi with a tall, good-looking guy!
+- The player fell to the ground clutching his ankle.
+- I've spent all morning cleaning up after the party.
+- I was busy sweeping up the fallen leaves.
+- He broke his collarbone playing rugby on Saturday morning.
+- A huge hurricane hit the city, causing untold destruction.
+- She left a note on the door, finding nobody home.
+
 ## CHAPTER 11. TO 不定詞
+
+### SECTION 1. 名詞位置での to 不定詞
+- To make new friends is not so easy.
+- To talk in the library is prohibited.
+- I like to paly video games with my buddies.
+- I want to be a policeman.
+
+### SECTION 2. 修飾位置での to 不定詞①
+- He came to appreciate his parents.
+- We got to know Tokyo very well.
+- To see is to believe.
+- Our goal is to find a cure for AIDS.
+- If you are to get her back, you need to do more than just apologize.
+- You are all to be here by 7 a.m. sharp, understood?
+- 4 kids from Liverpool were to form the most famous rock band in the world.
+- The President is to vist Japan next week.
+- The flight attendant seems/appears to be stressed out.
+- Her prediction turned out to be right.
+- His plan proved to be successful.
+- We happened to be wearing the same dress!
+- I thought him to be an honest person.
+- I consider him to be open-minded.
+- I found her to be a most capable assistant.
+
+### SECTION 3. 修飾位置での to 不定詞②
+- I'm going to Egypt to do some scuba diving.
+- I was excited to hear about your new project.
+- He grew up to be a famous architect.
+- She must be out of her mind to walk around such a dangerous area alone.
+- I don't have the right tools here to fix your bicycle.
+- Michelle was the first female golfer to paly in a men's tournament.
+- I need someone to drive me to the station.
+- He is easy to fool.
+- She is sure to lose her cool.
+- The new recruits are eager to show their worth.
+- I have no idea what to say.
+- Tell me when to start.
+- I know where to find them.
+- Could you tell me which way to go for the post office?
+
+### SECTION 4. to 不定詞が使われるその他の形
+- It's difficult to get up in the morning.
+- It's tough for the unemployed to make ends meet.
+- I find it difficult to get up early.
+- I thought it wise to let you know in advance.
+- I was too shocked to speak.
+- It was good to have reserved seats.
+- She pretended to have been working.
+- It would be crazy not to accept their offer.
+- We'll try not to make too much noise.
+
 ## CHAPTER 12. 過去分詞形
+
+### SECTION 1. 受動文とは？
+
+### SECTION 2. 受動文基礎
+- John was attacked by the dog.
+- 100 students were chosen for their leadership qualities.
+- Smoochy is buried in the pet cemetery.
+- We have been invited to Pat's New Year's party.
+- Our school cafeteria is being renovated.
+- Your report must be typed, not handwritten, OK?
+- Tokyo Sky Tree will be completed in 2011.
+- When was this school established?
+- The fans were not pleased with their team's performance this evening.
+
+### SECTION 3. 受動文のバリエーション
+- Mary was given a trophy.
+- I was offered the job, but I turned it down.
+- A trophy was given to Mary.
+- A love letter was handed to the teacher.
+- I think the guy was called Peter, but I can't be sure.
+- Her nails were painted bright pink.
+- Two students were seen necking in an empty classroom.
+- I was asked to make a speech at my ex-student's wedding.
+- We were all told to stay calm.
+- One of last year's Nobel Prize winners is thought to be in jail.
+- Her new book is expected to become an immediate bestseller.
+- Jericho is said to be the oldest city in the world.
+- The hostages are reported to be in good health.
+- My kids have been brought up to respect thier elders.
+- The match has been called off.
+- The big event will be talked about for years.
+- Don't worry. The tickets have already been paid for.
+
+### SECTION 4. 過去分詞での修飾
+- Your mom looked disgusted when she saw my tattoos!
+- They became frightened.
+- John got arrested for harassment.
+- Keep the door locked.
+- Would you like your fish grilled?
+- We found two windows smashed.
+- I thought I heard my name called.
+- It's difficult to make myself heard over all this noise.
+- I got my car washed yesterday.
+- The man pictured in the newspaper article is my grandfather.
+- The things stolen from my room were not very valuable.
+- My daughter came home disappointed.
+- We arrived at out destination exhausted.
+- The fans left the stadium overjoyed.
+- Our situation is healthy, compared with many companies.
+- This apartment is ideal for young couples, situated very close to lots of shops, restaurants, and leisure facilities.
+
 ## CHAPTER 13. 節
+
+### SECTION 1. 主語位置での節
+- That he is hiding something is plain to see.
+- That she was only after his money was obvious to everyone.
+- Whether our plan will work or not is in the lap of the Gods!
+- Whether we buy the house will depend largely on the selling price.
+- What the government decides affects all of us.
+- When she gets married is her business.
+- Where she got all that money from is a mystery.
+- How you treat others will determine how others treat you.
+- Who my son goes out with doesn't concern me at all.
+- Why he has so much trouble finding a girlfriend is beyond me.
+
+### SECTION 2. 修飾語位置での節
+- The simple fact is that we lost the game. End of story.
+- The question is whether/if our business can survive or not.
+- This is where I hang out.
+- I love that I live within walking distance of my university.
+- He told me that he doesn't want to lose me.
+- I'm afraid that your plan doesn't work.
+- I don't know whether I can afford to go clubbing this weekend.
+- He asked me if I wanted to go to Guam with him.
+- I asked her what she was planning to wear to the wedding.
+- He didn't tell me what kind of restaurant he would like to go to.
+- I don't have a clue where I put my keys.
+- I heard a rumor that you had dumped your boyfriend. So what about me?
+- The question whether an afterlife exists has been debated for centuries.
 
 # PART 4. 配置転換
 ## CHAPTER 14. 疑問文
