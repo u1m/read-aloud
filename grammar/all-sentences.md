@@ -815,12 +815,309 @@
 
 # PART 4. 配置転換
 ## CHAPTER 14. 疑問文
+
+### SECTION 1. 基本疑問文
+- Can you click your fingers?
+- Should I dump him?
+- Have you read my e-mail?
+- Do you speak English?
+- Does he speak English?
+- Did he speak English?
+- Are you happy?
+- Was he happy?
+
+### SECTION 2. 否定疑問文
+- Can't you find a job?
+- Don't you love me?
+- Isn't this disgusting?
+
+### SECTION 3. 付加疑問文
+- You can play golf better than me, can't you?
+- So, Sayuri doesn't want to go out with me, does she?
+- It's a beautiful day, isn't it?
+- You remembered to bring the key, right? - Er...!
+- Get off my back, OK?
+- So, you fancy my girlfriend, huh?
+- That's a good idea, don't you think?
+- Quit pestering me, will you?
+- Let's break for lunch, shall we?
+
+### SECTION 4. あいづち疑問文
+- I can give you a ride, if you like. - Oh, can you? That would be great!
+- I never wear any make-up. - Oh, don't you?
+- I'm a bit drunk. - Oh, are you?
+
+### SECTION 5. wh疑問文① しくみ
+
+### SECTION 6. wh疑問文② 基礎
+- What do you like? - I like hamachi.
+- Who did you meet? - I met Hanako.
+- Which do you like, dogs or cats? - I like cats.
+- Whose is this car? - It's my Dad's.
+- When do you work out? - I work out every morning.
+- Where do you live? - I live in Urawa.
+- How did you come here? - I came here by car.
+- Why didn't you come? - Because I had a terrible cold.
+- What did you do that for?
+- Who are you going drinking with?
+- Who told you that? - A little bird did!
+- What makes you happy? - Hanging out with my friends does.
+- How old are you? - I'm seventeen (years old).
+- How tall are you? - I'm 5 foot 8.
+- How much is this? - It's $5.
+- How many CDs do you have? - Too many to count!
+- What kind of music do you like? - I like rap music best.
+- Whose rollerblades are those? - They're my borther's.
+
+### SECTION 7. wh疑問文③ 応用
+- Who did you say called Cindy?
+- Who did you say Cindy called?
+- What do you think was the cause of the accident?
+- Who do you suppose was behind the fraud?
+- When do you imagine you'll get the results of the scan?
+- What time do you want me to come round?
+- Where in the whole world would you choose to go for your honeymoon?
+- Who would you like to be as famous as?
+- I went to Estonia. - You went where?
+- I bought a loofah. - You bought what?
+- I've been a vegetarian for 20 years. - You've been a vegetarian for how long?
+
+### SECTION 8. 疑問ではない疑問文
+- Can you talk some sense into my son? He won't listen to me. - Well, I can try!
+- Will you call me as soon as you get there? I'll be worried about you. - Sure, Mom.
+- Why don't you stay a little longer?
+- Why don't we take the kids to the zoo on Saturday?
+- Why must you always leave the toilet seat up?
+- What do you say we go catch a movie tongiht?
+- Would you like a cup of coffee?
+- How/What about going for a bike ride along the river?
+- Who are you to give me advice?
+- Who do you think you are?
+- You need to apologize to her. - Why should I?
+
 ## CHAPTER 15. さまざまな配置転換
+
+### SECTION 1. 主語-助動詞倒置
+- Oh, man. Am I angry!
+- Did I put my foot in my mouth!
+- I love banana pancakes. - So do I!
+- I've not seen his latest movie yet. - Neither have I.
+- Never have I seen such terrible behavior.
+- Rarely have I laughed so hard.
+- Little did they know how tough this challenge was going to be.
+- No sooner had I entered the interview room than I knew I had no chance.
+- Had he not braked so quickly, he would have run over the child.
+- Had there not been a doctor nearby, my son might have died.
+- Were I to lose my job, we would have enough to survive for a year or two.
+- Were it not for Bill, there would be no soccer club.
+- Should you incur any additional costs, we'll reimburse you.
+- I've reparied everything, and it's working fine now, but should there be a problem, just bring it back, OK?
+
+### SECTION 2. 感嘆文・その他
+- What a nice camera you have!
+- How fast he runs!
+- In class she is as quiet as a mouse, but at karaoke she is wild!
+- Last night, I had a big fight with my boyfriend.
 
 # PART 5. 時表現
 ## CHAPTER 16. 時表現
 
+### SECTION 1. 時のない文
+- Kiss me!
+- Be quiet!
+- I always insist that my staff be well dressed.
+- They are demanding that she pay in cash.
+- I propose that the money be spent on library books.
+- It is important that you give 100% to your job.
+
+### SECTION 2. 現在形
+- I'm a student.
+- I know 3 languages.
+- Humans are social animals.
+- Did you know that a hen lays about 228 eggs a year? - Who cares?!
+- My Dad catches the commuter train into the city.
+- I practice karate really hard.
+- I think it's a waste of time.
+- I love chocolate crepes.
+- His fans adore him.
+- I promise I won't be late again.
+- I suggest you add more salt.
+- I apologize for behaving like a jerk last night.
+- I chop the carrot into small cubes like this.
+- Watch carefully. First, I shuffle the cards like this. Then, ...
+- Here comes the bus. Hurry!
+- When you arrive at the hotel, please give me a call.
+- If you exercise every day, you'll soon lose weight.
+
+### SECTION 3. 過去形
+- I hoped you could lend me some money.
+- How many nights did you wish to stay, sir?
+- This would be my 8th trip to Japan, I think.
+- Geoff can/could fix it.
+- I may/might have a quick drink with Terry on my way home.
+- I wish I had a girlfriend.
+
+### SECTION 4. 進行形 (be + -ing)
+- My parents are holidaying in Kenya.
+- I'm living in NY at the moment.
+- Which team are you supporting?
+- The bus was stopping.
+- I think my poor cat is dying.
+- The helicopter is landing.
+- She was coughing.
+- My husband was snoring noisily all night.
+- He is always picking his nose.
+- My mother is constantly worring about something or other.
+
+### SECTION 5. 現在完了形 (have + 過去分詞)
+- Oh my gosh, he has peed his pants!
+- Look. It's stopped raining.
+- Have you heard from Geoff?
+- I've eaten fried ants.
+- I've enjoyed many fascinating adventures.
+- We've been to Machu Picchu.
+- We've been partners for 3 years.
+- I've lived in Nagoya since 2001.
+- The M40 has been under construction for weeks.
+- How have you been?
+- 14 years have passed since I came to Japan.
+- I've dislocated my shoulder, so I can't play tennis.
+
+### SECTION 6. 完了形バリエーション
+- The poor man had already died when the ambulance got there.
+- He wasn't in a good mood because his boss had ordered him to work overtime.
+- Ben was over the moon. He had just got promoted.
+- I will have finished my homework by 10.
+- They will have arrived in Los Angeles by now.
+- Something may have happened to her. I'm very worried.
+- He must have forgotten to cancel the reservation.
+- I should have studied harder.
+- I've been cleaning the kitchen since this morning. I'm exhausted.
+- I've been waiting for you for ages!
+
+### SECTION 7. 未来
+- It will rain tomorrow.
+- Hey, the movie starts in just 15 minutes. - Don't worry, we'll make it in time.
+- I'll give you a hand with the dishes.
+- OK, OK, I'll clean my room!
+- I think I've benn given the wrong grade. - OK, I'll check it out.
+- It's going to pour down any minute.
+- Watch out! The boxes are going to fall.
+- Look. He is going to do some magic.
+- Hurry. We're going to be late for class.
+- Are you going to attend the party?
+- I'm going to check out the new bookshop.
+- Lucy's going to prepare dinner tonight. Bring some stomach medicine!
+- I'm playing badminton at 3.
+- I'm having lunch with Keiko on Thursday.
+- She's flying to Singapore this Friday.
+- My birthday is next Tuesday.
+- What time does this train arrive at Tokyo Station?
+- His presentation begins at 1:30 p.m.
+- This time next week, I'll be sunbathing on the beach.
+- I'll be playing golf at 3.
+- You're to finish your homework before watching TV.
+- 2 students from my class are to be awarded study-abroad scholarships.
+- At my best friend's wedding, I met the woman who was to become my wife.
+
+### SECTION 8. 仮定法
+- I wish I had a girlfriend.
+- If you kissed me, I'd scream.
+- If you kiss me, I'll scream.
+- My car is really slow. I wish I had a Nissan GTR.
+- Can you speak a foreign language? - I wish I could.
+- I wish I were richer.
+- I wish I had been more attentive. Now I have to retake the class.
+- I have a terrible bellyache. I wish I hadn't eaten so much chocolate!
+- If you stopped smoking, you would feel much healthier.
+- If I were you, I wouldn't walk around that part of the city alone.
+- If I had studied harder, I would have got a higher TOEIC score.
+- If he had been less greedy, he would not have lost so much at the pachinko parlor!
+- If you had followed the instructions, you wouldn't be in this mess now.
+- If I had planned a bit better, everything would be fine.
+
+### SECTION 9. 時制の一致
+- John said Ken loved Nancy.
+- I thought Mary was really attractive.
+- He promised me that he would never leave me.
+- I heard that Judy had had another baby. Terrific news!
+- I found out that she had lied to me. I was furious.
+- The police said they had searched everywhere.
+- She said she would go out with me, but she changed her mind.
+- I told them we might be a bit late.
+- What? But you promised you could finish the job by today.
+- My Mom said I must be home by 11 p.m.
+- My doctor advised I should quit smoking.
+- Rebecca said that she could make a pumpkin pie for the Halloween party.
+- I said I wouldn't ask Gary because he's not reliable.
+- He said he would buy me a diamond if he were rich.
+- She wished she had a child.
+- Our geography teacher taught us that Greenland is the world's largest island.
+- Eri said her Dad plays mahjong every Saturday.
+- Brian wrote that he will reach Kathmandu on April 1st.
+
 # PART 6. 文の流れ
 ## CHAPTER 17. 接続詞
+
+### SECTION 1. 等位接続
+- I made a sandwich and ate it quickly.
+- It started to pour down, and we got soaked to the skin.
+- I didn't use suncream, so I got burned.
+- I like my new boyfriend but hate his sense of dress.
+- She never studies but always passes the tests easily.
+- He is not just my friend but my soul mate.
+- This car is not only powerful but (also) eco-friendly.
+- You can pay in cash, or you can use a credit card.
+- Which color do you want, red or blue?
+- 30 or 40 people attended the presentation.
+- Hurry up, or we'll miss the train.
+- We'd better do exactly as he told us, or else we'll be in deep water.
+
+### SECTION 2. 従位接続
+- If you wait a few minutes, I'll give you a ride.
+- I know I can win if I play my best.
+- I don't care if you have no money - I just like you!
+- I don't know if Michelle received the package.
+- He asked me if I have time for a drink.
+- Because I didn't practice, I made no progress.
+- I went to bed very early, for I had had an exhausting day.
+- Money is important in that we need it to survive.
+- He was lucky inasmuch as they didn't fire him.
+- She stayed at work late so (that) she could complete the report.
+- I have to be strict in order that the students realize who is the boss!
+- I've organized the files such that each document will be easy to find.
+- Although/Though he was injured, he carried on playing.
+- I support the Giants, while my girlfriend is a Hanshin Tigers' fan.
+- The old system was fairly complicated, whereas the new system is very simple.
+- When I opened the overhead locker, a big bag fell on my head.
+- I get nervous when I'm about to board a plane.
+- While I was driving to work, I felt a strange sense of deja vu.
+- I've felt much better since we had that chat. Thank you!
+- I lost balance as I was trying to stand on my head.
+- As the cost of air tickets has gone up so much, many people can no longer afford to travel.
+- As time passed, his condition got better and better.
+- As the unemployment level rises, the crime rate also increases.
+- As your doctor, I have to advise you to quit smoking.
+- I regard my new job as a great challenge.
+- Do as I say, not as I do.
+- I paid my debts, as agreed.
+- As you know, it's Tom's birthday next week.
+
 ## CHAPTER 18. 流れを整える
+
+### SECTION 1. 重なりを省く・注釈を加える
+
+### SECTION 2. レポートする
+- Lucy said, "I love you."
+- Lucy said she loved me.
+- The boys promised that they would stop teasing the girls.
+- My doctor advised that we should get the flu injection.
+- The government warned that people should avoid traveling to that country.
+- Many parents complained that the school fees were too high.
+- She asked, "Do you like the movie?"
+- She asked me if/whether I liked the movie.
+- She asked, "Where do you live?"
+- She asked me where I lived.
+- He said, "Let's try again."
+- He suggested we (should) try again.
 
