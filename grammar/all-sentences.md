@@ -46,6 +46,18 @@
 - Ellie has beautiful eyes.
 - I know Monet.
 
+- John protected his kid sister. (protect => sister)
+- John lives in Uwara. (in => Uwara)
+
+- I like playing golf with my son. (V-ing)
+- I like to play golf with my son. (to V)
+
+- He loves me. (love => me)
+
+- I know Monet. (know => Monet)
+- I know about Monet. (about => Monet)
+- I know of Monet. (of => Monet)
+
 ### SECTION 4. 基本文型②　自動型
 - My brother swims really fast.
 - My baseball team didn't play well last night.
